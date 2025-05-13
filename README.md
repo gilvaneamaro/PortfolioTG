@@ -66,7 +66,7 @@ Durante a minha participação neste projeto a habilidade mais desenvolvida foi 
 
 #### TGSync - Cliente interno
 Projeto desenvolvido para cliente interno da FATEC
-<center>![image](https://github.com/user-attachments/assets/7fb96ddc-4da1-48a1-867e-dc83b33bb88d)</center>
+![image](https://github.com/user-attachments/assets/7fb96ddc-4da1-48a1-867e-dc83b33bb88d)
 
 #### Desafio
 Durante o kickoff foi apresentado um problema que os orientadores da FATEC têm para gerenciar os trabalhos de graduação de seus respectivos orientados, com o objetivo de otimizar o processo de avaliação dos trabalhos de conclusão de curso dos alunos do 5º e 6º período do curso de Análise e Desenvolvimento de Sistemas. 
@@ -74,4 +74,73 @@ Durante o kickoff foi apresentado um problema que os orientadores da FATEC têm 
 Foi desenvolvido um sistema Desktop que permite que os professores façam o upload de um arquivo CSV gerado a partir de um formulário preenchido pelos alunos, que, por sua vez, popula o banco de dados. A aplicação oferece uma série de ferramentas que incluem recursos para avaliação, feedbacks e a geração de relatórios para acompanhamento dos alunos.
 
 ![image](https://github.com/user-attachments/assets/2fdcce9a-69b1-4408-94fd-c86ce3bcfc25)
+
+
+
+## 3º Semestre - 2024-1
+
+#### NextSchema - DomRock
+O projeto foi realizado em parceria com a Dom Rock, uma empresa que possui uma arquitetura de processamento de dados em pipeline, utilizada para orquestrar dados e algoritmos de inteligência artificial, ou modelos matemáticos, de acordo com as necessidades de negócio de seus clientes. Essa plataforma é amplamente aplicada em diferentes indústrias para tratar grandes volumes de dados, gerando insights automatizados e facilitando a tomada de decisão.
+
+#### Desafio
+O desafio que a empresa apresentou foi a necessidade de uma solução para a configuração dos esquemas dos bancos de dados, pois até aquele momento a DomRock precisava disponibilizar um funcionário para criar o arquivo de configuração yml de forma manual.
+
+#### Solução
+Para resolver esse problema, a equipe desenvolveu o NextSchema, uma aplicação web com interface amigável e intuitiva que permitia a configuração das fontes de dados de forma automatizada. A solução envolveu o desenvolvimento de várias interfaces, incluindo uma para o cadastro de clientes, soluções e usuários, e outra para upload de arquivos CSV com a visualização da estrutura de dados. Também foi criado um dashboard para administradores com visões quantitativas sobre os dados configurados. Além disso, a solução incluiu funcionalidades de mapeamento de campos-chave e aplicação de regras de negócios, além de um sistema de autenticação e auditoria para rastreabilidade. Isso trouxe benefícios como maior agilidade nas implantações e redução da dependência de técnicos especialistas
+
+Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API_3SEM.git">aqui</a>.
+
+#### Tecnologias Utilizadas
+- Spring Boot para desenvolver o Back-end Web Server
+- MySQL para banco de dados relacional
+- BR-Modelos para modelagem de dados
+- Figma para prototipação de Wareframes
+- HTML, CSS e JS para Front-end
+- Jira para gerenciamento da equipe e projetos
+- Git para versionamento de projetos
+- Github para armazenamento e publicação de arquivos.
+
+#### Contribuições Pessoais
+- Durante o projeto trabalhei apenas como back-end e fui responsável pela implementação do Spring Security e gerenciamento dos usuários, atuando na criação de endpoints para adicionar, atualizar e remover usuários. 
+
+    - Gerenciamento de usuário
+          <details>
+            Na criação precisei incluir uma lista de Role e outra de empresas que poderiam ser vinculados ao usuário, o que dificultou a lógica. Na deleção do usuário precisei remover todos os vínculos para que o banco de dados aceitasse a remoção. Tive dificuldades na implementação dos serviços, sendo necessário pensar bem quais injeções de dependências seriam possíveis, sem que houvesse looping.
+      ![image](https://github.com/user-attachments/assets/7f1faad9-872c-465a-9fe2-b94d727ff4e5)
+          </details>
+    - Níveis de acessos dos usuários
+          <details>
+              Desenvolvi um algoritmo capaz atribuir diferentes níveis de acessos aos usuários, foi preciso ajustar o código que já existia, pois inicialmente cada usuário teria apenas um acesso. Após a refatoração, a aplicação passou a realizar validações para acessar os métodos.
+      
+        ![image](https://github.com/user-attachments/assets/05096707-1100-45bc-8b71-43e83c70ca5f)
+          </details>
+    - Download do arquivo CSV
+          <details>
+             Criei um algoritmo que recuperava os metadados do banco de dados e enviava um binário com a configuração do banco de dados em arquivo YML. Utilizei a biblioteca snakeyaml para conseguir manipular o arquivo e enviar o arquivo.
+      ![image](https://github.com/user-attachments/assets/ea165536-6157-4b2c-8a44-54ba858695ce)
+          </details>
+          
+    - Implementação do spring security
+            <details>
+            De longe a task mais difícil que entreguei, realizei toda a configuração do Spring Security, implementando o token, validação e encriptação de senhas. Tive muitas dificuldades para conseguir manipular o token, atribuir propriedades como roles e tempo de expiração.
+            ![image](https://github.com/user-attachments/assets/bedadc9e-0479-4880-9449-a5486b220650)
+        </details>
+ 
+
+#### Hard Skills
+- Java (Spring Boot) - Desenvolvi aplicações backend, configurando endpoints e integrações de forma autônoma.
+- MySQL - Utilizei o banco de dados nas consultas de registros realizados e conferência do código.
+- IntelliJ IDEA - IDE utilizada para o desenvolvimento e testes da aplicação.
+- Git/GitHub - Versionamento de código e trabalho em equipe, com eficiência no uso de branches, pull requests e resolução de conflitos.
+- Postman - Testei e validei APIs durante o desenvolvimento, com conhecimento para criação de coleções de testes.
+- Figma - Para prototipagem de interfaces e colaboração no design da solução, utilizando a ferramenta com eficiência.
+- Jira - Organizei tarefas e acompanhei o desenvolvimento do projeto de acordo com a metodologia Scrum.
+
+
+#### Soft Skills
+- Comunicação - Habilidade mais importante no projeto, sem ela era fácil atrasar entregar e retrabalho.
+- Trabalho em equipe - Fundamental para conseguirmos dividir todas as tarefas e agilizar o projeto.
+- Resiliência - Foi preciso de resilência a cada bug encontrado, ou funcionalidade que deixava de ser necessária. Quando precisei refatorar todo o endpoint do usuário pois houve a implementação do security.
+- Resolução de problemas - Foi necessário encontrar a melhor maneira possível para resolver problemas técnicos e interpessoais.
+
 
