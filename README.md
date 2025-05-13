@@ -15,9 +15,9 @@ Caso tenha interesse em saber mais sobre minha trajetória profissional e projet
 Possuo conhecimento em lógica de programação e desenvolvimento web, já utilizei Frameworks como Spring boot e VueJs3. Minha experiência com bancos de dados inclui MySQL para dados relacionais.
 Possuo familiaridade com metodologias ágeis, especialmente Scrum, para gerenciamento de projetos. Tenho experiência na visualização de mapas utilizando MapTile, o que me permite lidar com projetos que envolvem tanto o back-end quanto o front-end de forma eficaz.
 
-## Meus Projetos
+---
 
-### 1º Semestre - 2023-1
+## 1º Semestre - 2023-1
 
 #### Insight360 - Cliente interno
 Projeto desenvolvido para cliente interno da FATEC
@@ -28,14 +28,11 @@ Projeto desenvolvido para cliente interno da FATEC
 O desafio foi desenvolver uma solução computacional personalizada para a PBL (Problem Based Learning) que permita a aplicação da dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º, permitindo a visualização dos resultados em dashbords.
 
 #### Solução
-Foi criada uma aplicação desktop que permite um usuário se cadastrar, ingressar em um novo time e realizar a avaliação 360. O administrador é capaz de habilitar a avaliação, criar sprints e criar novos times.
+Foi criada uma aplicação desktop que permite um usuário se cadastrar, ingressar em um novo time e realizar a avaliação 360. O administrador é capaz de habilitar e desabilitar o período de avaliação, criar sprints e criar novos times.
 
 Com as avaliações realizadas o sistema cria dashboards com métricas do desempenho do time.
 
 ![image](https://github.com/user-attachments/assets/633172be-5415-470d-9b02-c7b08055bc48)
-
-
-Acesso ao repositório disponível <a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE">aqui</a>.
 
 #### Tecnologias Utilizadas
 - Python
@@ -45,9 +42,10 @@ Acesso ao repositório disponível <a href="https://github.com/AndreMeneses0103/
 - Github para armazenamento e publicação de arquivos.
 
 #### Contribuições Pessoais
-- Cadastro de turmas e times
-- Cadastro de Sprints
-- Criação do gráfico média por time
+Atuei como desenvolvedor e fui responsável pela criação de algumas funcionalidades do sistema, foi meu primeiro contato com Python desenvolvendo aplicações, e apesar das nossas inúmeras dificuldades acredito que entregamos um produto aceitável.
+- Implementei a tela de **cadastro de turmas e times**, nesta tela o usuário poderia editar ou criar uma nova turma, em seguida o usuário poderia realizar o cadastros de times dentro da turma criada.
+- Desenvolvi a tela para **cadastro de Sprints**, o usuário poderia selecionar o período inicial e final, também atribuir um nome para a sprint.
+- Na tela de dashboards criei um **gráfico para exibir a nota média por time**.
  
 
 #### Hard Skills
@@ -59,3 +57,21 @@ Acesso ao repositório disponível <a href="https://github.com/AndreMeneses0103/
 
 #### Soft Skills
 Durante a minha participação neste projeto a habilidade mais desenvolvida foi *proatividade* e *autonomia* para aprender por conta própria as tecnologias necessárias, foi necessário muito *trabalho em equipe* para conseguirmos entregar todas as demandas dentro do prazo.
+
+<p align="center"> Acesso ao repositório disponível <a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE">aqui</a>.</p>
+
+---
+
+## 2º Semestre - 2023-2
+
+#### TGSync - Cliente interno
+Projeto desenvolvido para cliente interno da FATEC
+<center>![image](https://github.com/user-attachments/assets/7fb96ddc-4da1-48a1-867e-dc83b33bb88d)</center>
+
+#### Desafio
+Durante o kickoff foi apresentado um problema que os orientadores da FATEC têm para gerenciar os trabalhos de graduação de seus respectivos orientados, com o objetivo de otimizar o processo de avaliação dos trabalhos de conclusão de curso dos alunos do 5º e 6º período do curso de Análise e Desenvolvimento de Sistemas. 
+#### Solução
+Foi desenvolvido um sistema Desktop que permite que os professores façam o upload de um arquivo CSV gerado a partir de um formulário preenchido pelos alunos, que, por sua vez, popula o banco de dados. A aplicação oferece uma série de ferramentas que incluem recursos para avaliação, feedbacks e a geração de relatórios para acompanhamento dos alunos.
+
+![image](https://github.com/user-attachments/assets/2fdcce9a-69b1-4408-94fd-c86ce3bcfc25)
+
