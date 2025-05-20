@@ -70,14 +70,40 @@ Projeto desenvolvido para cliente interno da FATEC
 
 #### Desafio
 Durante o kickoff foi apresentado um problema que os orientadores da FATEC têm para gerenciar os trabalhos de graduação de seus respectivos orientados, com o objetivo de otimizar o processo de avaliação dos trabalhos de conclusão de curso dos alunos do 5º e 6º período do curso de Análise e Desenvolvimento de Sistemas. 
+
 #### Solução
 Foi desenvolvido um sistema Desktop que permite que os professores façam o upload de um arquivo CSV gerado a partir de um formulário preenchido pelos alunos, que, por sua vez, popula o banco de dados. A aplicação oferece uma série de ferramentas que incluem recursos para avaliação, feedbacks e a geração de relatórios para acompanhamento dos alunos.
 
 ![image](https://github.com/user-attachments/assets/2fdcce9a-69b1-4408-94fd-c86ce3bcfc25)
 
+#### Tecnologia Utilizadas
+- Java
+- JavaFX
+- SceneBuilder
+- MySQL
+- Figma
+- Git/Github
+- Trello
 
+#### Contribuições Pessoais
+Neste projeto atuei como Product Owner e Desenvolvedor, auxiliei a equipe realizar entregas de acordo com as expectativas do cliente. Como desenvolvedor entreguei a funcionalidade de upload do arquivo CSV e diversas modificações no banco de dados. Além disso auxiliei a equipe a utilizar as ferramentas de criações de telas utilizando o JavaFX.
+
+#### Hard Skills
+- Lógica de programação: pude desenvolver um pouco da minha lógica, conseguindo implementar funcionalidades que dependiam de condições específicas.
+- Java: adquiri maior conhecimento sobre classes e orientação a objeto, aplicando herança e polimorfismo.
+- Figma: desenvolvi habilidades para prototipações de telas
+  
+#### Soft Skills
+- Comunicação: como Product Owner pude desenvolver muitas habilidades interpessoais, pude traduzir as necessidades do cliente para nossa equipe de desenvolvimento.
+- Liderança: pude guiar o time de acordo com os objetivos.
+- Autonomia: ganhei muito conhecimento sozinho, correndo atrás das tecnologias que precisava aprender.
+
+<p align="center"> Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API_2_Sem">aqui</a>.</p>
+
+---
 
 ## 3º Semestre - 2024-1
+![image](https://github.com/user-attachments/assets/59054c01-29ed-4787-9afd-fe00b1feea43)
 
 #### NextSchema - DomRock
 O projeto foi realizado em parceria com a Dom Rock, uma empresa que possui uma arquitetura de processamento de dados em pipeline, utilizada para orquestrar dados e algoritmos de inteligência artificial, ou modelos matemáticos, de acordo com as necessidades de negócio de seus clientes. Essa plataforma é amplamente aplicada em diferentes indústrias para tratar grandes volumes de dados, gerando insights automatizados e facilitando a tomada de decisão.
@@ -143,4 +169,33 @@ Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API
 - Resiliência - Foi preciso de resilência a cada bug encontrado, ou funcionalidade que deixava de ser necessária. Quando precisei refatorar todo o endpoint do usuário pois houve a implementação do security.
 - Resolução de problemas - Foi necessário encontrar a melhor maneira possível para resolver problemas técnicos e interpessoais.
 
+
+## 4º Semestre - 2024-2
+![image](https://github.com/user-attachments/assets/3d5a709a-3b32-4bae-b5f7-b9c1a8768c19)
+
+#### LocalTracker - ITO1
+A ITO1 é uma empresa voltada para dados. Utilizamos IOTs para coletar informações de diferentes ambientes e com isso inovar nas soluções. Quando falamos sobre o volume de dados gerados por IoTs para geolocalização de pessoas e objetos, estamos falando de grandes quantidades de dados que precisam ser gerenciados de maneira eficiente. 
+
+#### Desafio
+O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados relacional escalável e de alta disponibilidade. 
+
+#### Solução
+Foi desenvolvida uma aplicação web capaz de imprimir em um mapa as localizações armazenadas de um dispositivo IoT. 
+
+#### Tecnologia Utilizadas
+- Java
+- Spring Boot
+- Javascript
+- Typescript
+- HTML
+- CSS
+- VueJS
+- Banco de dados Oracle
+
+#### Contribuições Pessoais
+
+
+#### Hard Skills
+
+#### Soft Skills
 
