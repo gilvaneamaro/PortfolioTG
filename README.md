@@ -180,7 +180,13 @@ A ITO1 é uma empresa voltada para dados. Utilizamos IOTs para coletar informaç
 O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados relacional escalável e de alta disponibilidade. 
 
 #### Solução
-Foi desenvolvida uma aplicação web capaz de imprimir em um mapa as localizações armazenadas de um dispositivo IoT. 
+A solução desenvolvida foi um sistema que integra o registro e consulta de dados de geolocalização de dispositivos, com funcionalidades para visualização em mapa, filtros de busca, e demarcação de espaços para alertas. O sistema foi projetado para ser escalável, intuitivo e com alta disponibilidade, utilizando tecnologias de ponta e um banco de dados relacional. Entre as funcionalidades entregues estão:
+- Registro de dados do cliente;
+- Visualização do dispositivo em tempo real no mapa;
+- Filtros de busca e intervalos de datas para consultas;
+- Criação de alertas quando dispositivos saem de áreas demarcadas;
+- Rastreabilidade do histórico de localizações;
+- Gestão de usuários e autenticação de acesso.
 
 #### Tecnologia Utilizadas
 - Java
@@ -193,9 +199,14 @@ Foi desenvolvida uma aplicação web capaz de imprimir em um mapa as localizaç�
 - Banco de dados Oracle
 
 #### Contribuições Pessoais
-
+Neste projeto foquei priorizar o frontend, fiz a configuração do mapa, implementei a funcionalidade para criar novas rotas e também a animação dos trajetos percorridos. Criei a tela de login e a comunicação com o backend utilizando o token.
+![image](https://github.com/user-attachments/assets/f988f29c-214a-4b92-83cb-e2f11cdd46d9)
 
 #### Hard Skills
+- Ferramentas de frontend, durante o projeto pude aprender o framework VueJs3, e tecnologias como CSS, HTML e typescript. Desenvolvi interfaces intuitivas e responsivas. Também Aprendi utilizar o framework Pinia para gerenciamento de estados.
+- Jira para o gerenciamento das tarefas relacionadas a essas funcionalidades, utilizei o Jira para organizar as atividades, acompanhar o progresso do projeto e garantir a entrega dentro do prazo.
+- Postman, utilizei a ferramenta testar e validar as APIs, garantindo que os endpoints estivessem funcionando corretamente.
+Desenvolvi muitas habilidades com frontend, 
 
 #### Soft Skills
-
+Durante este projeto pude aprimorar muito minha autonomia, ganhei muito conhecimento através de pesquisas realizadas por conta própria, também pude desenvolver muito habildidade de comunicação e trabalho em equipe, uma vez que a equipe possuía um foco em comum.
