@@ -210,3 +210,48 @@ Desenvolvi muitas habilidades com frontend,
 
 #### Soft Skills
 Durante este projeto pude aprimorar muito minha autonomia, ganhei muito conhecimento através de pesquisas realizadas por conta própria, também pude desenvolver muito habildidade de comunicação e trabalho em equipe, uma vez que a equipe possuía um foco em comum.
+
+## 5º Semestre - 2025-1
+
+
+#### Stratify - Youtan
+A Youtan, empresa de desenvolvimento de software, busca aprimorar a gestão de projetos utilizando a plataforma Taiga. Atualmente, a empresa enfrenta desafios na visualização de indicadores essenciais do fluxo de trabalho, dificultando o acompanhamento do progresso dos projetos e a tomada de decisões estratégicas.
+
+![stratify](https://github.com/user-attachments/assets/cd3cf203-d986-4ef4-b720-edb7c5d02c7a)
+
+#### Desafio
+O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados relacional escalável e de alta disponibilidade. 
+
+#### Solução
+Desenvolver uma plataforma integrada ao banco de dados do Taiga para consolidar e exibir indicadores estratégicos sobre o andamento dos projetos. Essa solução permitirá que diferentes perfis de usuários tenham acesso a informações específicas, garantindo uma visão clara e organizada:
+   - Operador: poderá visualizar métricas relacionadas aos cards sob sua responsabilidade.
+   - Gestor: poderá visualizar métricas dos cards sob sua responsabilidade e do seu time.
+   - Admin: terá acesso a todas as métricas de todos os times.
+
+A plataforma fornecerá dashboards interativos para facilitar o acompanhamento dos projetos, tornando a gestão mais eficiente e transparente. 
+
+#### Tecnologia Utilizadas
+- Java
+- Spring Boot
+- Javascript
+- Typescript
+- HTML
+- CSS
+- Python
+- VueJS
+- Banco de dados PostgreSQL
+- Docker
+- Cloud computing
+- DevOps
+
+#### Contribuições Pessoais
+Neste projeto atuei como Scrum Master, garantindo a aplicação correta do framework Scrum e facilitando cerimônias como Daily, Sprint Planning e Sprint Review. Em parceria com o Product Owner, promovi a cultura ágil dentro da equipe. Além disso, implementei o processo de Continuous Integration, definindo a estratégia e aplicando-o nos repositórios do projeto.
+
+#### Hard Skills
+- Continuos Integration através da estratégia definida e implementada nos repositórios e praticas de entregas contínuas.
+- Jira para o gerenciamento das tarefas relacionadas a essas funcionalidades, utilizei o Jira para organizar as atividades, acompanhar o progresso do projeto e garantir a entrega dentro do prazo.
+- Postman, utilizei a ferramenta testar e validar as APIs, garantindo que os endpoints estivessem funcionando corretamente.
+- Git/Github: utilizei ferramentas de versionamento para revisar e aprovar Pull Requests.
+
+#### Soft Skills
+Neste projeto pude desenvolver muito a habilidade de gestão de pessoas, organização e resiliência. Foi necessário resolver problemas que não estavam previstos e apresentar o desempenho do time para os avaliadores.
