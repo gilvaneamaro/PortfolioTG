@@ -220,7 +220,7 @@ A Youtan, empresa de desenvolvimento de software, busca aprimorar a gestão de p
 ![stratify](https://github.com/user-attachments/assets/cd3cf203-d986-4ef4-b720-edb7c5d02c7a)
 
 #### Desafio
-O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados relacional escalável e de alta disponibilidade. 
+Neste projeto, o grupo foi desafiado a desenvolver uma aplicação web integrada à API do sistema de gerenciamento de projetos Taiga, com o objetivo de obter informações sobre as tarefas movimentadas por meio dessa integração.
 
 #### Solução
 Desenvolver uma plataforma integrada ao banco de dados do Taiga para consolidar e exibir indicadores estratégicos sobre o andamento dos projetos. Essa solução permitirá que diferentes perfis de usuários tenham acesso a informações específicas, garantindo uma visão clara e organizada:
@@ -255,3 +255,13 @@ Neste projeto atuei como Scrum Master, garantindo a aplicação correta do frame
 
 #### Soft Skills
 Neste projeto pude desenvolver muito a habilidade de gestão de pessoas, organização e resiliência. Foi necessário resolver problemas que não estavam previstos e apresentar o desempenho do time para os avaliadores.
+
+## 6º Semestre - 2025-2
+
+#### HelpAI! - Pro4tech
+A empresa parceira foi a Pro4tech, que é especializada em transformação digital e tem como foco capacitar negócios para prosperarem na era digital. Combina expertise em tecnologias emergentes — como inteligência artificial, análise de dados, IoT e computação em nuvem — com a criação de estratégias personalizadas. Seu objetivo é aumentar a eficiência operacional, aprimorar a experiência do cliente e impulsionar o crescimento, contribuindo para a construção do futuro digital.
+
+#### Desafio
+A empresa parceira trouxe um desafio que enfrentam com uma base de dados antiga que não se aquada com as diretrizes da LGPD,
+
+
