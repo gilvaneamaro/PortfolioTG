@@ -262,6 +262,6 @@ Neste projeto pude desenvolver muito a habilidade de gestão de pessoas, organiz
 A empresa parceira foi a Pro4tech, que é especializada em transformação digital e tem como foco capacitar negócios para prosperarem na era digital. Combina expertise em tecnologias emergentes — como inteligência artificial, análise de dados, IoT e computação em nuvem — com a criação de estratégias personalizadas. Seu objetivo é aumentar a eficiência operacional, aprimorar a experiência do cliente e impulsionar o crescimento, contribuindo para a construção do futuro digital.
 
 #### Desafio
-A empresa parceira trouxe um desafio que enfrentam com uma base de dados antiga que não se aquada com as diretrizes da LGPD,
+A empresa parceira trouxe um desafio que enfrentam com uma base de dados antiga que não se aquada com as diretrizes da LGPD, além da n
 
 
