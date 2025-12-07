@@ -36,17 +36,15 @@ Projeto desenvolvido com cliente interno da FATEC, professor responsável pelos 
 ---
 
 #### Desafio
-O desafio foi desenvolver uma solução computacional personalizada para a PBL (Problem Based Learning) que permita a aplicação da dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º, permitindo a visualização dos resultados em dashboards.
+O desafio proposto pelo cliente foi desenvolver uma solução que permitisse aos times realizar avaliações 360, em que cada integrante pode avaliar os demais membros e também a si próprio. Além disso, era requisito criar uma forma de visualizar as avaliações dos times por períodos e por Sprints.
 
 #### Solução
 Foi criada uma aplicação desktop que permite um usuário se cadastrar, ingressar em um novo time e realizar a avaliação 360. O administrador é capaz de habilitar e desabilitar o período de avaliação, criar sprints e criar novos times.
 
 Com as avaliações realizadas o sistema cria dashboards com métricas do desempenho do time.
 
-
-
 #### Tecnologias Utilizadas
-- Python
+- Python - Linguagem de programação utilizada
 - Biblioteca Custom Tkinter para interfaces
 - Biblioteca Matplotlib para gráficos
 - Git para versionamento de projetos
@@ -60,10 +58,10 @@ Atuei como desenvolvedor e fui responsável pela criação de algumas funcionali
  
 
 #### Hard Skills
-- Python - Utilizando bibliotecas para criação de telas e gráficos.
-- Git/GitHub - Versionamento de código e trabalho em equipe.
-- Figma - Para prototipagem de interfaces e colaboração no design da solução, utilizando a ferramenta com eficiência.
-- Notion - Para gerenciamento das tarefas e documentação do projeto.
+- Python - Consigo ensinar
+- Git/GitHub - Consigo ensinar
+- TKinter - Uso com autonomia
+- Matplotlib - Uso com autonomia 
 
 
 #### Soft Skills
@@ -89,21 +87,25 @@ Foi desenvolvido um sistema Desktop que permite que os professores façam o uplo
 
 
 #### Tecnologias Utilizadas
-- Java
-- JavaFX
-- SceneBuilder
-- MySQL
-- Figma
-- Git/Github
-- Trello
+- Java - Linguagem de programação utilizada 
+- JavaFX - Biblioteca para interfaces gráficas
+- SceneBuilder - Ferramenta para montagem de interface
+- MySQL - SGBD utilizado para armzenamento de dados
+- Figma - Para prototipação
+- Git/Github - Utilizado no versionamento de código
+- Trello - Ferramenta para gerenciamento de projetos
 
 #### Contribuições Pessoais
-Neste projeto atuei como Product Owner e Desenvolvedor, auxiliei a equipe a realizar entregas de acordo com as expectativas do cliente. Como desenvolvedor entreguei a funcionalidade de upload do arquivo CSV e diversas modificações no banco de dados. Além disso auxiliei a equipe a utilizar as ferramentas de criação de telas utilizando o JavaFX.
+Neste projeto atuei como Product Owner e Desenvolvedor, como desenvolvedor entreguei a funcionalidade de upload do arquivo CSV e implementação do banco de dados. Além disso ensinei a equipe a utilizar as ferramentas de criação de telas utilizando o JavaFX.
 
 #### Hard Skills
-- Lógica de programação: pude desenvolver um pouco da minha lógica, conseguindo implementar funcionalidades que dependiam de condições específicas.
-- Java: adquiri maior conhecimento sobre classes e orientação a objetos, aplicando herança e polimorfismo.
-- Figma: desenvolvi habilidades para prototipação de telas
+- Java - Posso ensinar
+- JavaFX - Utilizo com autonomia
+- SceneBuilder - Posso ensinar
+- MySQL - Utilizo com autonomia
+- Figma - Uso com auxílio
+- Git/Github - Consigo ensinar
+- Trello - Uso com auxílio
   
 #### Soft Skills
 - Comunicação: como Product Owner pude desenvolver muitas habilidades interpessoais, pude traduzir as necessidades do cliente para nossa equipe de desenvolvimento.
@@ -130,11 +132,12 @@ O desafio que a empresa apresentou foi a necessidade de uma solução para a con
 Para resolver esse problema, a equipe desenvolveu o NextSchema, uma aplicação web com interface amigável e intuitiva que permitia a configuração das fontes de dados de forma automatizada. A solução envolveu o desenvolvimento de várias interfaces, incluindo uma para o cadastro de clientes, soluções e usuários, e outra para upload de arquivos CSV com a visualização da estrutura de dados. Também foi criado um dashboard para administradores com visões quantitativas sobre os dados configurados. Além disso, a solução incluiu funcionalidades de mapeamento de campos-chave e aplicação de regras de negócios, além de um sistema de autenticação e auditoria para rastreabilidade. Isso trouxe benefícios como maior agilidade nas implantações e redução da dependência de técnicos especialistas
 
 #### Tecnologias Utilizadas
-- Spring Boot para desenvolver o Back-end Web Server
+- Java como linguagem de programação
+- Spring Boot para desenvolver o Backend Web Server
 - MySQL para banco de dados relacional
 - BR-Modelos para modelagem de dados
 - Figma para prototipação de wireframes
-- HTML, CSS e JS para Front-end
+- HTML, CSS e JS para Frontend
 - Jira para gerenciamento da equipe e projetos
 - Git para versionamento de projetos
 - Github para armazenamento e publicação de arquivos.
@@ -167,14 +170,15 @@ Para resolver esse problema, a equipe desenvolveu o NextSchema, uma aplicação 
  
 
 #### Hard Skills
-- Java (Spring Boot) - Desenvolvi aplicações backend, configurando endpoints e integrações de forma autônoma.
-- MySQL - Utilizei o banco de dados nas consultas de registros realizados e conferência do código.
-- IntelliJ IDEA - IDE utilizada para o desenvolvimento e testes da aplicação.
-- Git/GitHub - Versionamento de código e trabalho em equipe, com eficiência no uso de branches, pull requests e resolução de conflitos.
-- Postman - Testei e validei APIs durante o desenvolvimento, com conhecimento para criação de coleções de testes.
-- Figma - Para prototipagem de interfaces e colaboração no design da solução, utilizando a ferramenta com eficiência.
-- Jira - Organizei tarefas e acompanhei o desenvolvimento do projeto de acordo com a metodologia Scrum.
-
+- Java - Posso ensinar
+- Spring Boot - Posso ensinar
+- MySQL - Utilizo com autonomia
+- BR-Modelos - Uso com auxílio
+- Figma - Uso com auxílio
+- HTML, CSS e JS - Utilizo com autonomia
+- Jira - Utilizo com autonomia
+- Git - Utilizo com autonomia
+- Github - Utilizo com autonomia
 
 #### Soft Skills
 - Comunicação - Habilidade mais importante no projeto, sem ela era fácil atrasar entregas e gerar retrabalho.
@@ -195,7 +199,7 @@ A ITO1 é uma empresa voltada para dados. Utilizamos IoTs para coletar informaç
 ---
 
 #### Desafio
-O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados relacional escalável e de alta disponibilidade. 
+O cliente nos apresentou uma base de dados com informações de geolocalização dos dispositivos IoT e precisava que essas coordenadas fossem exibidas em um mapa, permitindo aos usuários visualizar e acompanhar a localização e o histórico de cada dispositivo.
 
 #### Solução
 A solução desenvolvida foi um sistema que integra o registro e consulta de dados de geolocalização de dispositivos, com funcionalidades para visualização em mapa, filtros de busca, e demarcação de espaços para alertas. O sistema foi projetado para ser escalável, intuitivo e com alta disponibilidade, utilizando tecnologias de ponta e um banco de dados relacional. Entre as funcionalidades entregues estão:
@@ -207,24 +211,27 @@ A solução desenvolvida foi um sistema que integra o registro e consulta de dad
 - Gestão de usuários e aute
 
 #### Tecnologias Utilizadas
-- Java
-- Spring Boot
-- Javascript
-- Typescript
-- HTML
-- CSS
-- Vue.js 3
-- Banco de dados Oracle
+- Java - Linguagem de programação utilizada no backend
+- Spring Boot - Framework para criação da API
+- Typescript - Linguagem utilizada no frontend
+- HTML - Marcação das landing pages
+- CSS - Estilização das páginas
+- Vue.js 3 - Framework utilizado para criação dos componentes no frontend
+- Banco de dados Oracle - SGBD escolhido para armazenar os dados
 
 #### Contribuições Pessoais
 Neste projeto foquei em priorizar o frontend, fiz a configuração do mapa, implementei a funcionalidade para criar novas rotas e também a animação dos trajetos percorridos. Criei a tela de login e a comunicação com o backend utilizando o token.
 
 
 #### Hard Skills
-- Ferramentas de frontend, durante o projeto pude aprender o framework VueJs3, e tecnologias como CSS, HTML e TypeScript. Desenvolvi interfaces intuitivas e responsivas. Também aprendi utilizar o framework Pinia para gerenciamento de estados.
-- Jira para o gerenciamento das tarefas relacionadas a essas funcionalidades, utilizei o Jira para organizar as atividades, acompanhar o progresso do projeto e garantir a entrega dentro do prazo.
-- Postman, utilizei a ferramenta para testar e validar as APIs, garantindo que os endpoints estivessem funcionando corretamente.
-Desenvolvi muitas habilidades com frontend, 
+- Java - Consigo ensinar
+- Spring Boot - Consigo ensinar
+- Typescript - Uso com auxílio
+- HTML - Uso com autonomia
+- CSS -  Uso com autonomia
+- Vue.js 3 -  Uso com autonomia
+- Banco de dados Oracle -  Uso com autonomia
+
 
 #### Soft Skills
 Durante este projeto pude aprimorar muito minha autonomia, ganhei muito conhecimento através de pesquisas realizadas por conta própria, também pude desenvolver muito habildidade de comunicação e trabalho em equipe, uma vez que a equipe possuía um foco em comum.
@@ -240,7 +247,7 @@ A Youtan, empresa de desenvolvimento de software, busca aprimorar a gestão de p
 ---
 
 #### Desafio
-Neste projeto, o grupo foi desafiado a desenvolver uma aplicação web integrada à API do sistema de gerenciamento de projetos Taiga, com o objetivo de obter informações sobre as tarefas movimentadas por meio dessa integração.
+O cliente apresentou o seguinte problema: a empresa utiliza o sistema de gerenciamento de projetos Taiga e precisava gerar insights sobre métricas das atividades realizadas, como a quantidade de retrabalhos, o número de tasks concluídas por cada colaborador e o total de horas trabalhadas.
 
 #### Solução
 Desenvolver uma plataforma integrada ao banco de dados do Taiga para consolidar e exibir indicadores estratégicos sobre o andamento dos projetos. Essa solução permitirá que diferentes perfis de usuários tenham acesso a informações específicas, garantindo uma visão clara e organizada:
@@ -251,28 +258,31 @@ Desenvolver uma plataforma integrada ao banco de dados do Taiga para consolidar 
 A plataforma fornecerá dashboards interativos para facilitar o acompanhamento dos projetos, tornando a gestão mais eficiente e transparente. 
 
 #### Tecnologias Utilizadas
-- Java
-- Spring Boot
-- Javascript
-- TypeScript
-- HTML
-- CSS
-- Python
-- VueJS
-- Banco de dados PostgreSQL
-- Docker
-- Cloud computing
-- DevOps
+- Java - Linguagem de programação utilizada no backend
+- Spring Boot - Framework utilizado para desenvolvimento da API
+- TypeScript - Linguagem utilizada no frontend
+- Python - Linguagem utilizada no ETL
+- VueJS - Framework utilizado no frontend para criação de componentes
+- Banco de dados PostgreSQL - SGBD escolhido para armazenamento de dados
+- Docker - Utilizado para criação de containers
+- Oracle Cloud - Utilizado para criar instância do banco e do ETL disponível na internet
+- DevOps - Práticas de DevOps foram utilizadas durante todo o processo de desenvolvimento
+- Git/Github - Para versionamento de código
 
 #### Contribuições Pessoais
 Neste projeto atuei como Scrum Master, garantindo a aplicação correta do framework Scrum e facilitando cerimônias como Daily, Sprint Planning e Sprint Review. Em parceria com o Product Owner, promovi a cultura ágil dentro da equipe. Além disso, implementei o processo de Continuous Integration, definindo a estratégia e aplicando-o nos repositórios do projeto.
 
 #### Hard Skills
-- Continuous Integration através da estratégia definida e implementada nos repositórios e práticas de entregas contínuas.
-- Jira para o gerenciamento das tarefas relacionadas a essas funcionalidades, utilizei o Jira para organizar as atividades, acompanhar o progresso do projeto e garantir a entrega dentro do prazo.
-- Postman, utilizei a ferramenta para testar e validar as APIs, garantindo que os endpoints estivessem funcionando corretamente.
-- Git/GitHub: utilizei ferramentas de versionamento para revisar e aprovar Pull Requests.
-
+- Java - Posso ensinar
+- Spring Boot - Posso ensinar
+- TypeScript - Uso com auxílio
+- Python - Posso ensinar
+- VueJS - Uso com autonomia
+- Banco de dados PostgreSQL - Posso ensinar
+- Docker - Uso com autonomia
+- Oracle Cloud - Uso com autonomia
+- DevOps - Uso com auxílio
+- Git/Github - Posso ensinar
 #### Soft Skills
 Neste projeto pude desenvolver muito a habilidade de gestão de pessoas, organização e resiliência. Foi necessário resolver problemas que não estavam previstos e apresentar o desempenho do time para os avaliadores.
 
