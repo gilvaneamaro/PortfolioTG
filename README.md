@@ -2,7 +2,9 @@
 
 Portfólio de Aprendizagens desenvolvido a partir do Projeto Integrador (APIs), apresentado como Trabalho de Graduação à Faculdade de Tecnologia de São José dos Campos. 
 
-## Introdução
+## Gilvane Amaro
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/3babdcf4-7d72-494f-a4bb-08ff6f9af564" />
 
 Meu nome é Gilvane, tenho 30 anos, e iniciei meus estudos na área de tecnologia em 2014 no curso de Ciência e Tecnologia pela Universidade Federal de São Paulo, porém desisti do curso no final de 2018 para entrar no mercado de trabalho. Retomei meus estudos no segundo semestre de 2022, estudando por conta própria. Concluí alguns cursos online como o curso de Python do professor Gustavo Guanabara, e decidi retornar à Universidade.
 
@@ -11,18 +13,27 @@ Em Janeiro de 2023 me matriculei para o curso de Banco de Dados pela Faculdade d
 Caso tenha interesse em saber mais sobre minha trajetória profissional e projetos, segue o link para meu [LinkedIn](www.linkedin.com/in/gilvane-amaro) e [GitHub](https://www.github.com/gilvaneamaro).
 
 ## Principais Conhecimentos
+Tenho preferência pelo desenvolvimento backend, mas também possuo conhecimento em tecnologias de frontend e infraestrutura, dentre minhas habilidades se destacam:
+- Java
+- Spring framework
+- SQL
+- Vue.js 3
+- Javascript
+- HTML
+- CSS
+- Linux
 
-Possuo conhecimento em lógica de programação e desenvolvimento web, já utilizei Frameworks como Spring Boot e VueJs3. Minha experiência com bancos de dados inclui MySQL para dados relacionais.
-Possuo familiaridade com metodologias ágeis, especialmente Scrum, para gerenciamento de projetos. Tenho experiência na visualização de mapas utilizando MapTiler, o que me permite lidar com projetos que envolvem tanto o back-end quanto o front-end de forma eficaz.
 
 ---
 
 ## 1º Semestre - 2023-1
 
 #### Insight360 - Cliente interno
-Projeto desenvolvido para cliente interno da FATEC
-![image](https://github.com/user-attachments/assets/727b3a91-a127-4992-b596-1060f59b95ca)
+Projeto desenvolvido com cliente interno da FATEC, professor responsável pelos requisitos foi prof. Lucas Nadalete.
+![image](https://github.com/user-attachments/assets/633172be-5415-470d-9b02-c7b08055bc48)
+<p align="center"> Acesso ao repositório disponível <a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE">aqui</a>.</p>
 
+---
 
 #### Desafio
 O desafio foi desenvolver uma solução computacional personalizada para a PBL (Problem Based Learning) que permita a aplicação da dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º, permitindo a visualização dos resultados em dashboards.
@@ -32,7 +43,7 @@ Foi criada uma aplicação desktop que permite um usuário se cadastrar, ingress
 
 Com as avaliações realizadas o sistema cria dashboards com métricas do desempenho do time.
 
-![image](https://github.com/user-attachments/assets/633172be-5415-470d-9b02-c7b08055bc48)
+
 
 #### Tecnologias Utilizadas
 - Python
@@ -58,15 +69,16 @@ Atuei como desenvolvedor e fui responsável pela criação de algumas funcionali
 #### Soft Skills
 Durante a minha participação neste projeto a habilidade mais desenvolvida foi *proatividade* e *autonomia* para aprender por conta própria as tecnologias necessárias, foi necessário muito *trabalho em equipe* para conseguirmos entregar todas as demandas dentro do prazo.
 
-<p align="center"> Acesso ao repositório disponível <a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE">aqui</a>.</p>
-
----
 
 ## 2º Semestre - 2023-2
 
 #### TGSync - Cliente interno
-Projeto desenvolvido para cliente interno da FATEC
-![image](https://github.com/user-attachments/assets/7fb96ddc-4da1-48a1-867e-dc83b33bb88d)
+Projeto desenvolvido para cliente interno da FATEC, professor responsável pelos requisitos foi prof. Emanuel Mineda.
+![image](https://github.com/user-attachments/assets/2fdcce9a-69b1-4408-94fd-c86ce3bcfc25)
+
+<p align="center"> Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API_2_Sem">aqui</a>.</p>
+
+---
 
 #### Desafio
 Durante o kickoff foi apresentado um problema que os orientadores da FATEC têm para gerenciar os trabalhos de graduação de seus respectivos orientados, com o objetivo de otimizar o processo de avaliação dos trabalhos de conclusão de curso dos alunos do 5º e 6º período do curso de Análise e Desenvolvimento de Sistemas. 
@@ -74,7 +86,7 @@ Durante o kickoff foi apresentado um problema que os orientadores da FATEC têm 
 #### Solução
 Foi desenvolvido um sistema Desktop que permite que os professores façam o upload de um arquivo CSV gerado a partir de um formulário preenchido pelos alunos, que, por sua vez, popula o banco de dados. A aplicação oferece uma série de ferramentas que incluem recursos para avaliação, feedbacks e a geração de relatórios para acompanhamento dos alunos.
 
-![image](https://github.com/user-attachments/assets/2fdcce9a-69b1-4408-94fd-c86ce3bcfc25)
+
 
 #### Tecnologias Utilizadas
 - Java
@@ -98,23 +110,24 @@ Neste projeto atuei como Product Owner e Desenvolvedor, auxiliei a equipe a real
 - Liderança: pude guiar o time de acordo com os objetivos.
 - Autonomia: ganhei muito conhecimento sozinho, correndo atrás das tecnologias que precisava aprender.
 
-<p align="center"> Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API_2_Sem">aqui</a>.</p>
-
----
 
 ## 3º Semestre - 2024-1
-![image](https://github.com/user-attachments/assets/59054c01-29ed-4787-9afd-fe00b1feea43)
 
 #### NextSchema - DomRock
 O projeto foi realizado em parceria com a Dom Rock, uma empresa que possui uma arquitetura de processamento de dados em pipeline, utilizada para orquestrar dados e algoritmos de inteligência artificial, ou modelos matemáticos, de acordo com as necessidades de negócio de seus clientes. Essa plataforma é amplamente aplicada em diferentes indústrias para tratar grandes volumes de dados, gerando insights automatizados e facilitando a tomada de decisão.
+
+<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/bc35c279-0a5f-4f62-9802-095261b651d7" />
+
+
+<p align="center"> Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API_3SEM.git">aqui</a>.</p>
+
+---
 
 #### Desafio
 O desafio que a empresa apresentou foi a necessidade de uma solução para a configuração dos esquemas dos bancos de dados, pois até aquele momento a DomRock precisava disponibilizar um funcionário para criar o arquivo de configuração YAML de forma manual.
 
 #### Solução
 Para resolver esse problema, a equipe desenvolveu o NextSchema, uma aplicação web com interface amigável e intuitiva que permitia a configuração das fontes de dados de forma automatizada. A solução envolveu o desenvolvimento de várias interfaces, incluindo uma para o cadastro de clientes, soluções e usuários, e outra para upload de arquivos CSV com a visualização da estrutura de dados. Também foi criado um dashboard para administradores com visões quantitativas sobre os dados configurados. Além disso, a solução incluiu funcionalidades de mapeamento de campos-chave e aplicação de regras de negócios, além de um sistema de autenticação e auditoria para rastreabilidade. Isso trouxe benefícios como maior agilidade nas implantações e redução da dependência de técnicos especialistas
-
-Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API_3SEM.git">aqui</a>.
 
 #### Tecnologias Utilizadas
 - Spring Boot para desenvolver o Back-end Web Server
@@ -171,10 +184,15 @@ Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API
 
 
 ## 4º Semestre - 2024-2
-![image](https://github.com/user-attachments/assets/3d5a709a-3b32-4bae-b5f7-b9c1a8768c19)
 
 #### LocalTracker - ITO1
 A ITO1 é uma empresa voltada para dados. Utilizamos IoTs para coletar informações de diferentes ambientes e com isso inovar nas soluções. Quando falamos sobre o volume de dados gerados por IoTs para geolocalização de pessoas e objetos, estamos falando de grandes quantidades de dados que precisam ser gerenciados de maneira eficiente. 
+
+![image](https://github.com/user-attachments/assets/f988f29c-214a-4b92-83cb-e2f11cdd46d9)
+
+<p align="center"> Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API_4SEM">aqui</a>.</p>
+
+---
 
 #### Desafio
 O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados relacional escalável e de alta disponibilidade. 
@@ -200,7 +218,7 @@ A solução desenvolvida foi um sistema que integra o registro e consulta de dad
 
 #### Contribuições Pessoais
 Neste projeto foquei em priorizar o frontend, fiz a configuração do mapa, implementei a funcionalidade para criar novas rotas e também a animação dos trajetos percorridos. Criei a tela de login e a comunicação com o backend utilizando o token.
-![image](https://github.com/user-attachments/assets/f988f29c-214a-4b92-83cb-e2f11cdd46d9)
+
 
 #### Hard Skills
 - Ferramentas de frontend, durante o projeto pude aprender o framework VueJs3, e tecnologias como CSS, HTML e TypeScript. Desenvolvi interfaces intuitivas e responsivas. Também aprendi utilizar o framework Pinia para gerenciamento de estados.
@@ -213,11 +231,13 @@ Durante este projeto pude aprimorar muito minha autonomia, ganhei muito conhecim
 
 ## 5º Semestre - 2025-1
 
-
 #### Stratify - Youtan
 A Youtan, empresa de desenvolvimento de software, busca aprimorar a gestão de projetos utilizando a plataforma Taiga. Atualmente, a empresa enfrenta desafios na visualização de indicadores essenciais do fluxo de trabalho, dificultando o acompanhamento do progresso dos projetos e a tomada de decisões estratégicas.
+<img width="1280" height="599" alt="image" src="https://github.com/user-attachments/assets/3123f1f2-8322-4650-a183-5b4eb361bccf" />
 
-![stratify](https://github.com/user-attachments/assets/cd3cf203-d986-4ef4-b720-edb7c5d02c7a)
+<p align="center"> Acesso ao repositório disponível <a href="https://github.com/QuantumBitBR/API_5SEM">aqui</a>.</p>
+
+---
 
 #### Desafio
 Neste projeto, o grupo foi desafiado a desenvolver uma aplicação web integrada à API do sistema de gerenciamento de projetos Taiga, com o objetivo de obter informações sobre as tarefas movimentadas por meio dessa integração.
@@ -261,7 +281,43 @@ Neste projeto pude desenvolver muito a habilidade de gestão de pessoas, organiz
 #### HelpAI! - Pro4tech
 A empresa parceira foi a Pro4tech, que é especializada em transformação digital e tem como foco capacitar negócios para prosperarem na era digital. Combina expertise em tecnologias emergentes — como inteligência artificial, análise de dados, IoT e computação em nuvem — com a criação de estratégias personalizadas. Seu objetivo é aumentar a eficiência operacional, aprimorar a experiência do cliente e impulsionar o crescimento, contribuindo para a construção do futuro digital.
 
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/203e0086-80dc-4a5f-86ad-f6c719a28ce0" />
+<p align="center"> Acesso ao repositório disponível <a href="https://github.com/QuantumBitBR/API_6SEM">aqui</a>.</p>
+
+---
+
 #### Desafio
-A empresa parceira trouxe um desafio que enfrentam com uma base de dados antiga que não se aquada com as diretrizes da LGPD, além da n
+A empresa parceira apresentou um desafio relacionado a uma base de dados antiga, que não está alinhada com as diretrizes da LGPD e também dificulta a obtenção de uma visão abrangente e a realização de consultas eficientes.
+
+#### Solução
+A solução proposta foi uma aplicação web capaz de tratar os dados conforme as diretrizes da LGPD, oferecendo funcionalidades como backup, exclusão de informações e atualização dos termos de uso. A aplicação permite gerar gráficos para visualizar métricas gerais dos tickets, realizar consultas, produzir relatórios consolidados por meio de uma integração com a LLM Gemini e, por fim, gerar previsões de volume de chamados para apoiar a tomada de decisões.
+
+
+#### Tecnologias utilizadas
+- Python - Linguagem escolhida para o backend
+- Flask - Framework utilizado no backend para elaboração da API
+- Vue.js 3 - Framework utilizado no frontend
+- PrimeVue - Biblioteca de componentes utilizado em conjunto com Vue.js
+- Typescript - Linguagem escolhida para o frontend
+- PostgreSQL - SGBD escolhido para armazenar dados
+- Elasticsearch - Utilizado na pesquisa por tickets
+- Git/Github - Para versionamento de código
+
+#### Contribuições pessoais
+Nesse projeto, atuei como desenvolvedor, realizei a configuração do banco de dados PostgreSQL na Oracle Cloud, construí a tela de login e os componentes do dashboard para a visualização de tickets por prioridade. Desenvolvi também a integração com a API do Gemini, criei o prompt utilizado para a elaboração dos relatórios e implementei a autenticação por token JWT no backend.
+
+#### Hard Skills
+Aprimorei as seguintes hard skills durante o projeto:
+- Python - Consigo ensinar
+- Flask - Uso com autonomia
+- Vue.js 3 - Uso com autonomia
+- PrimeVue - Uso com autonomia
+- Typescript - Uso com auxílio
+- PostgreSQL - Consigo ensinar
+- Elasticsearch - Faço com auxílio
+- Git/Github - Consigo ensinar
+
+#### Soft Skills
+Durante o desenvolvimento deste projeto, o trabalho em equipe e a organização foram fundamentais, especialmente porque dois membros deixaram o time ao longo do processo. Diante desse cenário, cada integrante se dedicou integralmente para garantir as entregas, e nenhuma Sprint sofreu atrasos. Também precisei exercitar minha resiliência, pois já na primeira Sprint ocorreu o nascimento do meu filho, exigindo que eu conciliasse as responsabilidades de pai, profissional e aluno.
 
 
