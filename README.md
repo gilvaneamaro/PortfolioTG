@@ -192,7 +192,7 @@ Para resolver esse problema, a equipe desenvolveu o NextSchema, uma aplicação 
 #### LocalTracker - ITO1
 A ITO1 é uma empresa voltada para dados. Utilizamos IoTs para coletar informações de diferentes ambientes e com isso inovar nas soluções. Quando falamos sobre o volume de dados gerados por IoTs para geolocalização de pessoas e objetos, estamos falando de grandes quantidades de dados que precisam ser gerenciados de maneira eficiente. 
 
-![image](https://github.com/user-attachments/assets/f988f29c-214a-4b92-83cb-e2f11cdd46d9)
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/f218ec2d-84d5-437f-98b9-7968ee9a90f0" />
 
 <p align="center"> Acesso ao repositório disponível <a href="https://github.com/TechHorizonBR/API_4SEM">aqui</a>.</p>
 
